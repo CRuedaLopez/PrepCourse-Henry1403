@@ -1,2 +1,2 @@
 # PrepCourse-Henry1403
-este es un repositorio del modulo 2 del prep course de henry
+christian rueda este proyecto es una prueba de como clonarlo y crear los cambios
